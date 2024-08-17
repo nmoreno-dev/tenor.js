@@ -1,5 +1,5 @@
 {
-  "name": "tenor.js",
+  "name": "tenor-gif-api",
   "version": "1.0.0",
   "description": "A simple and easy-to-use wrapper for the Tenor API, enabling quick and effective integrations.",
   "main": "index.js",
