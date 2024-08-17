@@ -1,4 +1,4 @@
-# tenor.js
+# tenor-gif-api
 
 ## Introduction
 
